@@ -84,7 +84,7 @@ h3, h1 {
 }
 
 .beetle-journal {
-    background-image: url(./src/assets/public/images/BeetleJournal.png);
+    background-image: url(./assets/public/images/BeetleJournal.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
