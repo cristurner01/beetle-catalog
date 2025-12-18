@@ -7,7 +7,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSearch } from '@fortawesome/free-solid-svg-icons';
 import _ from 'lodash'
 import './App.css'
-import BeetleJournal from '../images/BeetleJournal.png'
+import BeetleJournal from './public/images/BeetleJournal.png'
 
 function App() {
   const [allBeetles, setAllBeetles] = useState([]);
